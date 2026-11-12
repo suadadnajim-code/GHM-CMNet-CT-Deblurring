@@ -1,0 +1,2 @@
+model,inference_mean_ms,inference_std_ms,inference_median_ms,measured_passes,input_shape,precision,gpu,pytorch,cuda,warmup_runs,measured_runs,timing_trials,seed
+SwinIR-M,1086.8528440348307,14.364552617349704,1073.2765502929688,300,1x1x352x352,FP32,NVIDIA GeForce RTX 5070 Ti Laptop GPU,2.11.0+cu128,12.8,20,100,3,123
