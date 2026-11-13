@@ -27,7 +27,7 @@ import sys
 
 sys.path.insert(
     0,
-    "/mnt/c/Users/lenovo/BasicSR"
+    "/path/BasicSR"
 )
 
 from basicsr.metrics.psnr_ssim import (
